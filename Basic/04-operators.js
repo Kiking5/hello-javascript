@@ -107,3 +107,4 @@ console.log(!(5 > 10 || 15 > 20))
 
 const isRaining = false
 isRaining ? console.log("Está lloviendo") : console.log("No está lloviendo")
+//condition ?             true            :              false
